@@ -1,2 +1,8 @@
 # esp32-sandbox
-base for esp32 projects
+Codebase for esp32 projects containing common features used in diy projects.
+
+## Features
+- Network: wifi access point
+- OTA Updates
+- Embedded filesystem
+- 
